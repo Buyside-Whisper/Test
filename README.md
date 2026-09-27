@@ -6,3 +6,4 @@ change 4
 change 5
 regular commit 1
 regular commit 2
+regular commit 3
